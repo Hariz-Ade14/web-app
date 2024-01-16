@@ -1,0 +1,46 @@
+.login{
+      background-color: rgb(14, 14, 14);
+      height: 100vh;
+      padding: 0px;
+      margin: 0px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+}
+.inputStyle{
+     width: 300px;
+     height: 45px;
+     border: none;
+     outline: none;
+     border-radius: 10px;
+     margin: 20px;
+     background-color: rgba(29, 29, 29, 0.466);
+     padding: 0px 15px;
+     color: white;
+}
+.btnStyle{
+    background-color: rgb(59, 59, 59);
+    width: 300px;
+    margin: 20px auto;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 10px;
+   
+}
+.btnStyle:hover{
+    /* background-color: rgba(255, 0, 0, 0.199); */
+}
+.logBtn{
+    color: red;
+    text-decoration: none;
+}
+.link{
+    color: white;
+    margin: 20px;
+}
